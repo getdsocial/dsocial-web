@@ -1,0 +1,107 @@
+{
+  "spec_version": "1.0.0",
+  "mainfests": [
+    {
+      "chainId": "ARISEN",
+      "mainfest": {
+        "account": "peeps",
+        "domain": "dweb://dsocial.dcom",
+        "appmeta": "dweb://dsocial.dcom/dweb-app-metadata.json",
+        "whitelist": [
+          {
+            "contract": "dsocial",
+            "action": "post",
+          }, 
+          {
+            "contract": "dsocial",
+            "action": "unpost", 
+          }, 
+          {
+            "contract": "dsocial",
+            "action": "comment",
+          }, 
+          {
+            "contract": "dsocial",
+            "action": "uncomment",
+          }, 
+          {
+            "contract": "dsocial",
+            "action": "uncomment",
+          }, 
+          {
+            "contract": "dsocial",
+            "action": "repost",
+          }, 
+          {
+            "contract": "dsocial",
+            "action": "love",
+          }, 
+          {
+            "contract": "dsocial",
+            "action": "unlove",
+          }, 
+          {
+            "contract": "dsocial",
+            "action": "upvote",
+          }, 
+          {
+            "contract": "dsocial",
+            "action": "favorite",
+          }, 
+          {
+            "contract": "dsocial",
+            "action": "unfavorite",
+          }, 
+          {
+            "contract": "dsocial",
+            "action": "pin",
+          }, 
+          {
+            "contract": "dsocial",
+            "action": "unpin",
+          }, 
+          {
+            "contract": "dsocial",
+            "action": "follow",
+          }, 
+          {
+            "contract": "dsocial",
+            "action": "unfollow",
+          }, 
+          {
+            "contract": "dsocial",
+            "action": "block",
+          }, 
+          {
+            "contract": "dsocial",
+            "action": "unblock",
+          }, 
+          {
+            "contract": "dsocial",
+            "action": "activate",
+          }, 
+          {
+            "contract": "dsocial",
+            "action": "deactivate",
+          }, 
+          {
+            "contract": "dsocial",
+            "action": "pimage",
+          }, 
+          {
+            "contract": "dsocial",
+            "action": "himage",
+          }, 
+          {
+            "contract": "dsocial",
+            "action": "pdata",
+          }, 
+          {
+            "contract": "arisen.token",
+            "action": "",
+          }
+        ]
+      }
+    }
+  ]
+}
