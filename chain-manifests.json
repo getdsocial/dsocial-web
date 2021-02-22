@@ -2,7 +2,7 @@
   "spec_version": "1.0.0",
   "mainfests": [
     {
-      "chainId": "ARISEN",
+      "chainId": "136ce1b8190928711b8bb50fcae6c22fb620fd2c340d760873cf8f7ec3aba2b3",
       "mainfest": {
         "account": "peeps",
         "domain": "dweb://dsocial.dcom",
