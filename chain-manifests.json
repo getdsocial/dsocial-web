@@ -10,95 +10,118 @@
         "whitelist": [
           {
             "contract": "dsocial",
-            "action": "post",
-          }, 
+            "action": "post"
+            
+          },
           {
             "contract": "dsocial",
-            "action": "unpost", 
-          }, 
+            "action": "unpost"
+            
+          },
           {
             "contract": "dsocial",
-            "action": "comment",
-          }, 
+            "action": "comment"
+            
+          },
           {
             "contract": "dsocial",
-            "action": "uncomment",
-          }, 
+            "action": "uncomment"
+            
+          },
           {
             "contract": "dsocial",
-            "action": "uncomment",
-          }, 
+            "action": "uncomment"
+            
+          },
           {
             "contract": "dsocial",
-            "action": "repost",
-          }, 
+            "action": "repost"
+            
+          },
           {
             "contract": "dsocial",
-            "action": "love",
-          }, 
+            "action": "love"
+            
+          },
           {
             "contract": "dsocial",
-            "action": "unlove",
-          }, 
+            "action": "unlove"
+            
+          },
           {
             "contract": "dsocial",
-            "action": "upvote",
-          }, 
+            "action": "upvote"
+            
+          },
           {
             "contract": "dsocial",
-            "action": "favorite",
-          }, 
+            "action": "favorite"
+            
+          },
           {
             "contract": "dsocial",
-            "action": "unfavorite",
-          }, 
+            "action": "unfavorite"
+            
+          },
           {
             "contract": "dsocial",
-            "action": "pin",
-          }, 
+            "action": "pin"
+            
+          },
           {
             "contract": "dsocial",
-            "action": "unpin",
-          }, 
+            "action": "unpin"
+            
+          },
           {
             "contract": "dsocial",
-            "action": "follow",
-          }, 
+            "action": "follow"
+            
+          },
           {
             "contract": "dsocial",
-            "action": "unfollow",
-          }, 
+            "action": "unfollow"
+            
+          },
           {
             "contract": "dsocial",
-            "action": "block",
-          }, 
+            "action": "block"
+            
+          },
           {
             "contract": "dsocial",
-            "action": "unblock",
-          }, 
+            "action": "unblock"
+            
+          },
           {
             "contract": "dsocial",
-            "action": "activate",
-          }, 
+            "action": "activate"
+            
+          },
           {
             "contract": "dsocial",
-            "action": "deactivate",
-          }, 
+            "action": "deactivate"
+            
+          },
           {
             "contract": "dsocial",
-            "action": "pimage",
-          }, 
+            "action": "pimage"
+            
+          },
           {
             "contract": "dsocial",
-            "action": "himage",
-          }, 
+            "action": "himage"
+            
+          },
           {
             "contract": "dsocial",
-            "action": "pdata",
-          }, 
+            "action": "pdata"
+            
+          },
           {
             "contract": "arisen.token",
-            "action": "",
+            "action": ""
+            
           }
         ]
       }
